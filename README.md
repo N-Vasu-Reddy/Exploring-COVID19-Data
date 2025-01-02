@@ -44,6 +44,6 @@ Recovery and fatality trends by region.
 Correlations between various factors influencing the pandemic.
 
 ## Acknowledgments
-Special thanks to the World Health Organization (WHO) for providing the datasets used in this analysis.
+Special thanks to the [World Health Organization (WHO)](https://www.who.int/) for providing the datasets used in this analysis.
 
 Feel free to customize this further based on your project's specifics!
